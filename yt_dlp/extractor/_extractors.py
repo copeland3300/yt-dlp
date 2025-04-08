@@ -2563,6 +2563,8 @@ from .youporn import (
     YouPornTagIE,
     YouPornVideosIE,
 )
+from .yourporn import YourPornIE
+from .yourupload import YourUploadIE
 from .zaiko import (
     ZaikoETicketIE,
     ZaikoIE,
